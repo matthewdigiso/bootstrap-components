@@ -1,0 +1,10 @@
+.bg-gradient{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(57,95,230,1) 15%, rgba(47,67,185,1) 36%, rgba(57,95,230,1) 50%, rgba(64,167,236,1) 78%, rgba(0,212,255,1) 100%) !important;
+}
+
+
+.row {
+    min-height: 400px;
+    text-align: center;
+}
